@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+html {
+  font-family: Helvetica;
+  font-size: 16px;
+}
+ body {
+   background-color: #ccc;
+ }
+
+ #root {
+   width: 300px;
+   height: 500px;
+   margin: auto;
+   background-color: #fff;
+   font-size: 2rem;
+ }
+
+ div {
+   font-size: 1.5rem;
+ }
